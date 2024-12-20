@@ -64,7 +64,7 @@
     },
     "i31zqa": { "url": "https://ch.originalapecoin.com", "type": "external" },
     "i96vpk": {
-      "url": "https://x.com/GoodBoy_OnSol",
+      "url": "https://x.com/",
       "type": "external",
       "newTab": true
     },
@@ -74,14 +74,14 @@
       "pagePath": "/"
     },
     "iq6ngz": {
-      "url": "https://x.com/originalapecoin",
+      "url": "https://x.com/",
       "type": "external",
       "newTab": true
     },
     "istocq": { "url": "https://kr.originalapecoin.com", "type": "external" },
     "iu9iyk": { "url": "https://sp.originalapecoin.com", "type": "external" },
     "iyk0mw": {
-      "url": "https://t.me/OriginalApeCoin",
+      "url": "https://t.me/",
       "type": "external",
       "newTab": true
     },
@@ -91,27 +91,27 @@
       "newTab": true
     },
     "i8mekjm": {
-      "url": "https://x.com/GoodBoy_OnSol",
+      "url": "https://x.com/",
       "type": "external",
       "newTab": true
     },
     "i8zhrt8": {
-      "url": "https://jup.ag/swap/SOL-4DNcAxMMhWffAy5WTiJyxoCnMMkeXzrcw2RXJrakr7ym",
+      "url": "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
       "type": "external",
       "newTab": true
     },
     "ih5tg93": {
-      "url": "https://phantom.app/",
+      "url": "https://metamask.io/",
       "type": "external",
       "newTab": true
     },
     "ij6er4j": {
-      "url": "https://t.me/GoodBoy_OnSol",
+      "url": "https://t.me/",
       "type": "external",
       "newTab": true
     },
     "iymurdk": {
-      "url": "https://phantom.app/",
+      "url": "https://etherscan.io/token/0x00000000000000000000000000000000000000",
       "type": "external",
       "newTab": true
     },
@@ -132,7 +132,7 @@
       "sectionHash": "adoptionprocess-anchor"
     },
     "i96vpk-2": {
-      "url": "https://t.me/GoodBoy_OnSol",
+      "url": "https://t.me/",
       "type": "external",
       "newTab": true
     },
